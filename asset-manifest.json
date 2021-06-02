@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/apurvashinde01/static-demo-react/static/css/main.db3e61a7.chunk.css",
-    "main.js": "/apurvashinde01/static-demo-react/static/js/main.acb40ede.chunk.js",
-    "main.js.map": "/apurvashinde01/static-demo-react/static/js/main.acb40ede.chunk.js.map",
+    "main.js": "/apurvashinde01/static-demo-react/static/js/main.4c3773aa.chunk.js",
+    "main.js.map": "/apurvashinde01/static-demo-react/static/js/main.4c3773aa.chunk.js.map",
     "runtime-main.js": "/apurvashinde01/static-demo-react/static/js/runtime-main.1323f38c.js",
     "runtime-main.js.map": "/apurvashinde01/static-demo-react/static/js/runtime-main.1323f38c.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/apurvashinde01/static-demo-react/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.1322aa8c.chunk.js": "/apurvashinde01/static-demo-react/static/js/2.1322aa8c.chunk.js",
-    "static/js/2.1322aa8c.chunk.js.map": "/apurvashinde01/static-demo-react/static/js/2.1322aa8c.chunk.js.map",
+    "static/js/2.9097e26c.chunk.js": "/apurvashinde01/static-demo-react/static/js/2.9097e26c.chunk.js",
+    "static/js/2.9097e26c.chunk.js.map": "/apurvashinde01/static-demo-react/static/js/2.9097e26c.chunk.js.map",
     "static/js/3.ffae87e1.chunk.js": "/apurvashinde01/static-demo-react/static/js/3.ffae87e1.chunk.js",
     "static/js/3.ffae87e1.chunk.js.map": "/apurvashinde01/static-demo-react/static/js/3.ffae87e1.chunk.js.map",
     "index.html": "/apurvashinde01/static-demo-react/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/apurvashinde01/static-demo-react/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.db3e61a7.chunk.css.map": "/apurvashinde01/static-demo-react/static/css/main.db3e61a7.chunk.css.map",
-    "static/js/2.1322aa8c.chunk.js.LICENSE.txt": "/apurvashinde01/static-demo-react/static/js/2.1322aa8c.chunk.js.LICENSE.txt",
+    "static/js/2.9097e26c.chunk.js.LICENSE.txt": "/apurvashinde01/static-demo-react/static/js/2.9097e26c.chunk.js.LICENSE.txt",
     "static/media/otp.233eef88.svg": "/apurvashinde01/static-demo-react/static/media/otp.233eef88.svg",
     "static/media/s1.4b053a4e.svg": "/apurvashinde01/static-demo-react/static/media/s1.4b053a4e.svg",
     "static/media/s2.a1e354d3.svg": "/apurvashinde01/static-demo-react/static/media/s2.a1e354d3.svg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.1323f38c.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.1322aa8c.chunk.js",
+    "static/js/2.9097e26c.chunk.js",
     "static/css/main.db3e61a7.chunk.css",
-    "static/js/main.acb40ede.chunk.js"
+    "static/js/main.4c3773aa.chunk.js"
   ]
 }
