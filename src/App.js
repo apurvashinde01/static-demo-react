@@ -4,7 +4,7 @@ import Home from "./components/Home";
 import ReadBlog from "./components/ReadBlog";
 import EditBlog from "./components/EditBlog";
 
-import { BrowserRouter, Link, Route, Switch } from "react-router-dom";
+import { BrowserRouter, HashRouter, Link, Route, Switch } from "react-router-dom";
 import CreateBlog from "./components/CreateBlog";
 import SignUp from "./components/SignUp";
 import SignIn from "./components/SignIn";
@@ -13,7 +13,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <NavbarComponent />
         <br />
@@ -28,7 +28,7 @@ function App() {
         </Switch>
         <Footer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
